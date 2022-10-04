@@ -2,7 +2,7 @@
 
 This is my Phase 1 Project
 
-- A Superhero App I've made providing the best of all the superheros on the internet in one place! I decided to make an API (Application Programming Interface) pulling up random superheros because I've always grown up loving superheros and always had an intrest in them.
+- A Superhero App I've made providing the best of all superheros on the internet in one place! I decided to make an API (Application Programming Interface) pulling up random superheros because I've always grown up loving superheros and always had an intrest in them.
 
 ## Acknowledgements
 
