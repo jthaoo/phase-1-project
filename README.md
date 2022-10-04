@@ -2,7 +2,7 @@
 
 This is my Phase 1 Project
 
-- A Reddit API (Application Programming Interface) I've made providing the best of the internet in one place! I decided to make a Reddit API because I enjoy memes, GIFs, and other random pictures.
+- A Superhero App I've made providing the best of all the superheros on the internet in one place! I decided to make an API (Application Programming Interface) pulling up random superheros because I've always grown up loving superheros and always had an intrest in them.
 
 ## Acknowledgements
 
